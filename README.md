@@ -1,3 +1,3 @@
 # Mapa Mental de Conjuntos
 
-![Mi mapa](./conjuntos.jpg)
+![Mi mapa](./conjuntos%20.jpg)
